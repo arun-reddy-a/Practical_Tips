@@ -35,13 +35,13 @@
       <ul>
         <li>Example code for training with low curvature activations.</li>
         <li>Repository: <a href="https://github.com/vasusingla/low_curvature_activations?tab=readme-ov-file">https://github.com/vasusingla/low_curvature_activations?tab=readme-ov-file</a></li>
-        <li><strong>Wide Resnet:</strong>
+      </ul>
+      <li><strong>Wide Resnet:</strong>
       <ul>
         <li>Example code for training wide residual networks.</li>
         <li>Repository: <a href="https://github.com/szagoruyko/wide-residual-networks">https://github.com/szagoruyko/wide-residual-networks</a></li>
       </ul>
     </li>
-      </ul>
     </li>
   </ul>
 
