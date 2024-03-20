@@ -36,10 +36,10 @@
         <li>Example code for training with low curvature activations.</li>
         <li>Repository: <a href="https://github.com/vasusingla/low_curvature_activations?tab=readme-ov-file">https://github.com/vasusingla/low_curvature_activations?tab=readme-ov-file</a></li>
       </ul>
-      <li><strong>Wide Resnet:</strong>
+      <li><strong>Transformers:</strong>
       <ul>
-        <li>Example code for training wide residual networks.</li>
-        <li>Repository: <a href="https://github.com/szagoruyko/wide-residual-networks">https://github.com/szagoruyko/wide-residual-networks</a></li>
+        <li>Example code for training Transformers.</li>
+        <li>Repository: <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">https://nlp.seas.harvard.edu/2018/04/03/attention.html</a></li>
       </ul>
     </li>
     </li>
